@@ -23,3 +23,5 @@ program kullanıcıdan 4 haneli bir hex kodu girmesini ister.
 Ardından bu komudu opcode, register ve address olarak üçe 
 ayırdıktan sonra gerekli kontroller yapılır ve case yapısı 
 sayesinde opcode eşleşen komudu yazdırır.
+
+Youtube linki: https://youtu.be/0L6s8L_H1vA
